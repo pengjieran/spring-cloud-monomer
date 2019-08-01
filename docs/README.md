@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Spring Cloud Monomer
 
 You can use the [editor on GitHub](https://github.com/pengjieran/spring-cloud-monomer/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
