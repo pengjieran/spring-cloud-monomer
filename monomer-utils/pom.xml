@@ -17,7 +17,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<commons-lang3.version>3.6</commons-lang3.version>
-		<commons-io.version>2.5</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<libphonenumber.version>8.10.11</libphonenumber.version>
 		<hutool.version>4.5.7</hutool.version>
 		<core.version>3.1.0</core.version>
